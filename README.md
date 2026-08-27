@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions
 
-Collection of LeetCode problems solved in Java / Python / C++. Automatically synced via **LeetSync**.
+Collection of LeetCode problems solved in Java. Automatically synced via **LeetSync**.
 
 ---
 
