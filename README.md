@@ -6,7 +6,7 @@ Collection of LeetCode problems solved in Java / Python / C++. Automatically syn
 
 ### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/<jawahar08>?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/jawahar08?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
